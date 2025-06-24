@@ -1,1 +1,1 @@
-# Random GIF Generator
+# Random GIF Generator using React
